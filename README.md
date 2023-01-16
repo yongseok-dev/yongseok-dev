@@ -1,9 +1,6 @@
 # Yongseok
 > 내 문제를 해결하고, 주변인의 시간을 아끼기 위해 노력하는 개발자입니다.
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yongseok-dev&show_icons=true&hide_border=false&count_private=true&theme=synthwave&line_height=30)
-
 ## Tech Stack
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
