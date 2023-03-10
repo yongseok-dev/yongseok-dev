@@ -9,14 +9,24 @@
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 
+  ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
   ![Node](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
   ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
-  ![NestJS](https://img.shields.io/badge/Nestjs-e32743?style=flat-square&logo=Nestjs&logoColor=white%22)
+  ![NestJS](https://img.shields.io/badge/Nestjs-e32743?style=flat-square&logo=Nestjs&logoColor=white)
 
+
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-  ![NCloud](https://img.shields.io/badge/NCloud-03C75B?style=flat-square&logo=Naver&logoColor=whit)
+  
+  
+  ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=MicrosoftAzure&logoColor=white)
+  ![NCloud](https://img.shields.io/badge/NCloud-03C75A?style=flat-square&logo=Naver&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=GitHubActions&logoColor=white)
+
 
 ## Experience
+- KNOU ComputerScience (2021.03 ~ )
 - Boostcamp Web Fullstack 7th - Challenge (2022.07 ~ 2021.08)
 - Boostcamp Web Fullstack 7th - Membership (2022.08 ~ 2021.12)
 
