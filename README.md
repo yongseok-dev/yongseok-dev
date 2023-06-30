@@ -26,9 +26,8 @@
 
 
 ## Experience
-- Industrial Bank of Korea (2023.06 ~ )
-- Boostcamp Web Fullstack 7th - Membership (2022.08 ~ 2021.12)
-- Boostcamp Web Fullstack 7th - Challenge (2022.07 ~ 2021.08)
+- Industrial Bank of Korea - Digital (2023.06 ~ )
+- Boostcamp Web Fullstack 7th - Challenge/Membership (2022.07 ~ 2022.12)
 - Korea National Open University - ComputerScience (2021.03 ~ )
 
 ## BOJ
