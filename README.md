@@ -28,7 +28,7 @@
 ## Experience
 - Industrial Bank of Korea - Digital (2023.06 ~ )
 - Boostcamp Web Fullstack 7th - Challenge/Membership (2022.07 ~ 2022.12)
-- Korea National Open University - ComputerScience (2021.03 ~ )
+- Korea National Open University - ComputerScience (2021.03 ~ 2024.02)
 
 ## BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yongseok)](https://solved.ac/yongseok/)
