@@ -1,5 +1,5 @@
 # Yongseok
-> 내 문제를 해결하고, 주변인의 시간을 아끼기 위해 노력하는 개발자입니다.
+> 내 문제를 해결하고, 주변인의 시간을 아끼기 위해 노력하는 직장인입니다.
 
 ## Tech Stack
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
