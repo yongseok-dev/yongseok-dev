@@ -8,6 +8,8 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
   ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
@@ -18,9 +20,12 @@
 
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-  
+  ![Tibero](https://img.shields.io/badge/Tibero-0066CC?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAABU1PscAAAClUlEQVRIx+2VO2gUQRSGv0rUWUNxaiGjxErReKkaSbeAcV6K7g6QzERH2AXcBmEARWRRtpakZzvQk7vi9Xcr7Veu7uXjs9rYm7Ea+7OHPvvO973nzv9fK9/nB9wsBvETGQAwA+gD8Xi8UQLAJPAVcBNCYCbft0/oBlA3Dazq6B1cCFQDm1CfjghGIQ5AgNeNNVqAR2kAjSrkhTEaO+3b6GgOeaTkNL0zW6lNBITqZeZ4wQk5zZH2mSWkeEqoVJZyyZAZEyEhJxloCWjRRF6Ap3RusH7dbqMuquN3SK4N4OVdahlAw8UqJ2GBYb0a2jzY++7WocXGOZThokxAWgQ03+QoL7FIIRQCeVRCqog+qgewZMa5LZKU3gjBZGLDQKqFG1rDw394ceuzpA4Su1pD3MZKwBdbeyB0Hz24OaUBqMg9AIHxG09kJQ1SuaplVSBGSB+c1mCoqWV8OqWaqVWrZH7hO8/jx7Jqx/ehk3YFkwl2tYHhefzJ6NAIFOhkJIQmKgAtqmU9IEvobXxNXYGpNBFAPefFgJgUourGJ8fezqpRilGC2U7EA/yNoJIu6dYD/v/UB0gAAAABJRU5ErkJggg==&logoColor=white)
+
   
   ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=MicrosoftAzure&logoColor=white)
+  ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
   ![NCloud](https://img.shields.io/badge/NCloud-03C75A?style=flat-square&logo=Naver&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=GitHubActions&logoColor=white)
 
